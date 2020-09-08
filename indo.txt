@@ -1,0 +1,115 @@
+
+{×} CEKPOINT 
+{×} Nama     > Desi Komendangi
+{×} User     > 100023321852845
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Erwin Albasya
+{×} User     > 100024739832354
+{×} Password > erwin123
+
+{×} CEKPOINT 
+{×} Nama     > Desi Komendangi
+{×} User     > 100023321852845
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Desi Komendangi
+{×} User     > 100023321852845
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Erwin Albasya
+{×} User     > 100024739832354
+{×} Password > erwin123
+
+{×} CEKPOINT 
+{×} Nama     > SofyaMtlpu
+{×} User     > 100029731781034
+{×} Password > sayang
+
+{×} CEKPOINT 
+{×} Nama     > SofyaMtlpu
+{×} User     > 100029731781034
+{×} Password > sayang
+
+{×} CEKPOINT 
+{×} Nama     > Jesika Husain
+{×} User     > 100025584882419
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Ain Mustapa
+{×} User     > 100041471979192
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Aldi Fairuz
+{×} User     > 100039918502346
+{×} Password > aldi1234
+
+{×} CEKPOINT 
+{×} Nama     > Zulfi
+{×} User     > 100042419172625
+{×} Password > zulfi1234
+
+{×} CEKPOINT 
+{×} Nama     > Diki Gajul
+{×} User     > 100041296969346
+{×} Password > diki123
+
+{×} CEKPOINT 
+{×} Nama     > Awal AR
+{×} User     > 100042225875386
+{×} Password > anjing
+
+{×} CEKPOINT 
+{×} Nama     > Anwar Putra Bungsu
+{×} User     > 100023452920172
+{×} Password > anwar1234
+
+{×} CEKPOINT 
+{×} Nama     > Wayan Daniel
+{×} User     > 100015674947236
+{×} Password > sayang
+
+{×} CEKPOINT 
+{×} Nama     > Desi Komendangi
+{×} User     > 100023321852845
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Desi Komendangi
+{×} User     > 100023321852845
+{×} Password > bangsat
+
+{×} CEKPOINT 
+{×} Nama     > Erwin Albasya
+{×} User     > 100024739832354
+{×} Password > erwin123
+
+{×} CEKPOINT 
+{×} Nama     > Sandra Sa'ban
+{×} User     > 100024769357157
+{×} Password > sandra12345
+
+{×} CEKPOINT 
+{×} Nama     > Tiara Ajja
+{×} User     > 100036041615669
+{×} Password > tiara123
+
+{×} CEKPOINT 
+{×} Nama     > Ocha Lingga
+{×} User     > 100043972189473
+{×} Password > ocha1234
+
+{×} CEKPOINT 
+{×} Nama     > Lita
+{×} User     > 100041581521344
+{×} Password > kontol
+
+{×} CEKPOINT 
+{×} Nama     > Della
+{×} User     > 100046364562980
+{×} Password > della12345
